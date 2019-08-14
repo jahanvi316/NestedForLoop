@@ -1,6 +1,6 @@
 # NestedForLoop
 Nested for loop example
-CSC 1302
+CSC 1302 Lab One
 
 Uses nested for loop to print the  following:
 5 
